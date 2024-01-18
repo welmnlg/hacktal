@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011712401552",
+    "project_id": "auth-sepakat",
+    "storage_bucket": "auth-sepakat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011712401552:android:bf20f13443d704179ab815",
+        "android_client_info": {
+          "package_name": "com.imanuelmtsapplication.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWw-QEkswKoTEpzFwzpKLTQer-BkeKtkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
